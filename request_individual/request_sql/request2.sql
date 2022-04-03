@@ -1,0 +1,1 @@
+SELECT county, populati FROM population WHERE populati BETWEEN 10000000 AND 12000000;

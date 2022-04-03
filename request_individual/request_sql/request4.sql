@@ -1,0 +1,1 @@
+select country, populati, yearly_change from population where yearly_change > "2 %" order by yearly_change desc limit 15;

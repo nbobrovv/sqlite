@@ -1,0 +1,1 @@
+select country, med_age from population WHERE fert_rate > "5" limit 10;
