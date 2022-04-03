@@ -1,14 +1,10 @@
-┌──────────────┬─────────┐
-│   Country    │ Med_Age │
-├──────────────┼─────────┤
-│ Nigeria      │ 18      │
-│ DR Congo     │ 17      │
-│ Uganda       │ 17      │
-│ Angola       │ 17      │
-│ Niger        │ 15      │
-│ Burkina Faso │ 18      │
-│ Mali         │ 16      │
-│ Chad         │ 17      │
-│ Somalia      │ 17      │
-│ Burundi      │ 17      │
-└──────────────┴─────────┘
+Nigeria,18
+"DR Congo",17
+Uganda,17
+Angola,17
+Niger,15
+"Burkina Faso",18
+Mali,16
+Chad,17
+Somalia,17
+Burundi,17

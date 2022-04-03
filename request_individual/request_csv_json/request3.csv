@@ -1,9 +1,5 @@
-┌──────────┬─────────┐
-│ Country  │ Density │
-├──────────┼─────────┤
-│ Malaysia │ 99      │
-│ Dominica │ 96      │
-│ Syria    │ 95      │
-│ Cambodia │ 95      │
-│ Kenya    │ 94      │
-└──────────┴─────────┘
+Malaysia,99
+Dominica,96
+Syria,95
+Cambodia,95
+Kenya,94

@@ -1,32 +1,28 @@
-┌──────────────────────────┬───────────┐
-│         Country          │ Populati  │
-├──────────────────────────┼───────────┤
-│ Ethiopia                 │ 115434444 │
-│ Philippines              │ 109830324 │
-│ Egypt                    │ 102659126 │
-│ Burundi                  │ 11948454  │
-│ Tunisia                  │ 11839918  │
-│ Bolivia                  │ 11700207  │
-│ Belgium                  │ 11598451  │
-│ Haiti                    │ 11426356  │
-│ Cuba                     │ 11325391  │
-│ South Sudan              │ 11216250  │
-│ Dominican Republic       │ 10866667  │
-│ Czech Republic (Czechia) │ 10712481  │
-│ Greece                   │ 10413936  │
-│ Jordan                   │ 10220604  │
-│ Portugal                 │ 10191409  │
-│ Azerbaijan               │ 10154978  │
-│ Sweden                   │ 10110233  │
-│ Eswatini                 │ 1162233   │
-│ Kiribati                 │ 119760    │
-│ Micronesia               │ 115231    │
-│ Grenada                  │ 112614    │
-│ St. Vincent & Grenadines │ 111002    │
-│ Aruba                    │ 106845    │
-│ Tonga                    │ 105901    │
-│ U.S. Virgin Islands      │ 104398    │
-│ Tuvalu                   │ 11817     │
-│ Wallis & Futuna          │ 11203     │
-│ Nauru                    │ 10836     │
-└──────────────────────────┴───────────┘
+Ethiopia,115434444
+Philippines,109830324
+Egypt,102659126
+Burundi,11948454
+Tunisia,11839918
+Bolivia,11700207
+Belgium,11598451
+Haiti,11426356
+Cuba,11325391
+"South Sudan",11216250
+"Dominican Republic",10866667
+"Czech Republic (Czechia)",10712481
+Greece,10413936
+Jordan,10220604
+Portugal,10191409
+Azerbaijan,10154978
+Sweden,10110233
+Eswatini,1162233
+Kiribati,119760
+Micronesia,115231
+Grenada,112614
+"St. Vincent & Grenadines",111002
+Aruba,106845
+Tonga,105901
+"U.S. Virgin Islands",104398
+Tuvalu,11817
+"Wallis & Futuna",11203
+Nauru,10836
